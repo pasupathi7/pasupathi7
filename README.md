@@ -1,37 +1,18 @@
-# Hi there, I'm Pasupathi 👋
+# 💫 About Me:
+🔭 I’m currently working on Own project<br>🌱 I’m currently learning Innovative technology Chennai<br>👯 I’m looking to collaborate on Full stack Web developer<br>🤔 I’m looking for help with Java<br>💬 Ask me about<br>📫 How to reach me: pasupasu258@gmail.com
 
-Welcome to my GitHub profile! I am a passionate software developer with a keen interest in open-source projects and building innovative solutions. Here is a little more about me:
 
-## 🚀 About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pasupathi ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mr_vicky007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn/in.com/pasupathi-fullsatackdeveleper) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Pasupathi s) 
 
-- 🔭 I’m currently working on Own project 
-- 🌱 I’m currently learning Innovative technology Chennai 
-- 👯 I’m looking to collaborate on Full stack Web developer 
-- 🤔 I’m looking for help with Java 
-- 💬 Ask me about
-- 📫 How to reach me: pasupasu258@gmail.com
-
-## 🛠️ Technologies & Tools
-
-![java](https://img.shields.io/badge/-java-000?&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git :https://img.shields.io/badge/-GitHub-000?&logo=GitHub
-
-## 📈 GitHub Stats
-
-![Pasupathi's GitHub stats :https://github-readme-stats.vercel.app/api?username=pasupathi7&show_icons=true&theme=radica
-
-## 📫 Connect with Me
-
-- LinkedIn:https://www.linkedin.com/in/s-pasupathi-msp007
-- Personal Website:https://pasupathiresumes2024.netlify.app/
-
-## 📝
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pasupathi7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pasupathi7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasupathi7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Pasupathi7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to chat. 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
